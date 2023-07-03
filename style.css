@@ -16,3 +16,7 @@ div.form{
 form{
     margin : 25%;
 }
+
+input{
+    margin : 12px 0 12px 0;
+}
